@@ -1,1 +1,1 @@
-
+echo "# myprojectname">>README.md; 
